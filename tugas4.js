@@ -1,5 +1,5 @@
-x = 156
-y = 166
+x = 160
+y = 155
 z = 176
 
 function tinggi_badan() {
