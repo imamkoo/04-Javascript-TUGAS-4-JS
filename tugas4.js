@@ -88,6 +88,8 @@ function urutan_tinggi() {
                 '\n' + x + "cm" +
                 '\n' + y + "cm");
         }
+    } else {
+        console.log("Urutan tinggi sama : " + x + "cm")
     }
 }
 
